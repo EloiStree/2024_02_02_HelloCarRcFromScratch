@@ -1,4 +1,7 @@
 # 2024_02_02_HelloCarRcFromScratch
+
+[![image](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/b52debd0-f691-4a0d-81ef-5b316a43a856)](https://youtu.be/CrI-iCATU2g)
+
 We try to learn how we can use Scratch as an controller for third application like Hello Car RC
 
 
