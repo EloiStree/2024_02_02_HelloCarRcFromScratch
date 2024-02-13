@@ -61,5 +61,11 @@ print("End")
 
 --------------------
 
+|Teacher |Student|
+|-|-|
+|![293130405-167c0e68-82b8-4286-9142-2e982671a58c](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/068286f3-bbe1-4df3-aac5-04a6325b9c44) | ![Student](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/978b26d4-b281-4ce9-8e89-aa19b5d9ee19) |
+|[eloiscratchstudents](https://scratch.mit.edu/users/eloiscratchstudents/) |[EloiStree](https://scratch.mit.edu/users/EloiStree/) |
+
+
 Student account for workshop in real life:  
 [eloiscratchstudents](https://scratch.mit.edu/users/eloiscratchstudents/)https://scratch.mit.edu/users/eloiscratchstudents/ 
