@@ -62,4 +62,4 @@ print("End")
 --------------------
 
 Student account for workshop in real life:  
-eloiscratchstudents  
+[eloiscratchstudents](https://scratch.mit.edu/users/eloiscratchstudents/)https://scratch.mit.edu/users/eloiscratchstudents/ 
