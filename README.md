@@ -57,3 +57,9 @@ print(connection.get_cloud_variable("Test"))
 print("End")
 
 ```
+
+
+--------------------
+
+Student account for workshop in real life:  
+eloiscratchstudents  
