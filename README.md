@@ -63,11 +63,9 @@ print("End")
 
 |Teacher |Student|
 |-|-|
-| ![Teacher](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/8e5ecdf9-661c-4341-a0d3-68d27b3feea1) | ![Student](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/978b26d4-b281-4ce9-8e89-aa19b5d9ee19) |
-
-|Teacher |Student|
-|-|-|
-| [EloiStree](https://scratch.mit.edu/users/EloiStree/) | [eloiscratchstudents](https://scratch.mit.edu/users/eloiscratchstudents/)  |
+| [![Teacher](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/8e5ecdf9-661c-4341-a0d3-68d27b3feea1)](https://scratch.mit.edu/users/EloiStree/) | [![Student](https://github.com/EloiStree/2024_02_02_HelloCarRcFromScratch/assets/20149493/978b26d4-b281-4ce9-8e89-aa19b5d9ee19)](https://scratch.mit.edu/users/eloiscratchstudents/) |
+- [EloiStree](https://scratch.mit.edu/users/EloiStree/)
+- [EloiScratchStudents](https://scratch.mit.edu/users/eloiscratchstudents/)  
 
 
 Student account for workshop in real life:  
